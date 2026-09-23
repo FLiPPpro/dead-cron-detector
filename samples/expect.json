@@ -1,0 +1,1 @@
+{"jobs": {"nightly-export": {"min_effects": 1}, "invoice-sync": {"min_effects": 1}, "heartbeat": {"min_effects": 0}}}
